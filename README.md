@@ -1,4 +1,4 @@
-# Thirth Assignment 
+# Third Assignment 
 
 ## How to run
 
